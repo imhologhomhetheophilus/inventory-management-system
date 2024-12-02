@@ -14,7 +14,7 @@
  </head>
 <body>
 <div class="overlay"><div class="loader"></div></div>
-	<!-- Navbar -->
+	<!-- Navbar
 	<?php include_once("./templates/header.php"); ?>
 	<br/><br/>
 	<div class="container">
